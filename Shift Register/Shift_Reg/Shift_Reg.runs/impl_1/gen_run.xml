@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1659646708">
+  <File Type="BITSTR-BMM" Name="Shift_Reg_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Shift_Reg_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="Shift_Reg_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="Shift_Reg_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Shift_Reg.tcl"/>
+  <File Type="OPT-TIMING" Name="Shift_Reg_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="Shift_Reg_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="Shift_Reg_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="Shift_Reg_reports.tcl"/>
+  <File Type="OPT-DRC" Name="Shift_Reg_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Shift_Reg.hwdef"/>
+  <File Type="PWROPT-DCP" Name="Shift_Reg_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Shift_Reg_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Shift_Reg_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Shift_Reg_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Shift_Reg_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Shift_Reg_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Shift_Reg_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Shift_Reg_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Shift_Reg_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Shift_Reg_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Shift_Reg_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="Shift_Reg.bgn"/>
+  <File Type="PLACE-TIMING" Name="Shift_Reg_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Shift_Reg_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="Shift_Reg.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Shift_Reg_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Shift_Reg_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Shift_Reg_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="Shift_Reg.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="Shift_Reg_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Shift_Reg_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Shift_Reg_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Shift_Reg_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Shift_Reg_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Shift_Reg_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Shift_Reg.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="Shift_Reg_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="Shift_Reg.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Shift_Reg_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Shift_Reg_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="Shift_Reg.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Shift_Reg_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="Shift_Reg_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Shift_Reg_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Shift_Reg_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Shift_Reg_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Shift_Reg_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Shift_Reg_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Shift_Reg_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Shift_Reg_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Shift_Reg_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Shift_Reg_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Shift_Reg_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Shift_Reg_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Shift_Reg_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Shift_Reg_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Shift_Reg_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Shift_Reg_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Shift_Reg_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Shift_Reg_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="Shift_Reg.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Shift_Reg_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="Shift_Reg.rbt"/>
+  <File Type="BITSTR-NKY" Name="Shift_Reg.nky"/>
+  <File Type="BG-DRC" Name="Shift_Reg.drc"/>
+  <File Type="RDI-RDI" Name="Shift_Reg.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Shift_Reg.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Shift_Reg"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/constrains.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/constrains.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
