@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Aug  5 12:38:49 2022
+# Process ID: 10764
+# Current directory: C:/Users/carl_/Documents/Vivado/Projects/Udemy/Button_LED/Button_Led/Button_Led.runs/synth_1
+# Command line: vivado.exe -log Button_Led.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Button_Led.tcl
+# Log file: C:/Users/carl_/Documents/Vivado/Projects/Udemy/Button_LED/Button_Led/Button_Led.runs/synth_1/Button_Led.vds
+# Journal file: C:/Users/carl_/Documents/Vivado/Projects/Udemy/Button_LED/Button_Led/Button_Led.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Button_Led.tcl -notrace
