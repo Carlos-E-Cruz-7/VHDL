@@ -1,0 +1,101 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+Ecounter_1
+Z0 w1661290319
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 14
+Z5 dC:/Users/carl_/Documents/Vivado/Projects/Udemy/Counter/ModelSim
+Z6 8C:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_1.vhd
+Z7 FC:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_1.vhd
+l0
+L16 1
+VPUcFf`>XNII:Ao3E0lckQ0
+!s100 J;VJhTmgG<TMCDa=VKGD32
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1661291445
+!i10b 1
+Z10 !s108 1661291445.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_1.vhd|
+Z12 !s107 C:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_1.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehv
+R1
+R2
+R3
+R4
+DEx4 work 9 counter_1 0 22 PUcFf`>XNII:Ao3E0lckQ0
+!i122 14
+l34
+L30 23
+VmIgmEVzS0L?7Ga^5nW]z>0
+!s100 B4GVd^S:YM@XM6JL3llAV3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecounter_tb_1
+Z15 w1661291424
+R1
+R2
+R3
+R4
+!i122 15
+R5
+Z16 8C:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_TB_1.vhd
+Z17 FC:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_TB_1.vhd
+l0
+L12 1
+V=C[NLb2]hYITFeE4XVBZf0
+!s100 F[5ac=S1H7IbizF0PPeEc2
+R8
+32
+Z18 !s110 1661291446
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_TB_1.vhd|
+Z20 !s107 C:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_TB_1.vhd|
+!i113 1
+R13
+R14
+Atb
+R1
+R2
+R3
+R4
+Z21 DEx4 work 12 counter_tb_1 0 22 =C[NLb2]hYITFeE4XVBZf0
+!i122 15
+l36
+Z22 L17 53
+Z23 VY<Q^ng6Ca@cFzhP62?IBj3
+Z24 !s100 XjBj>mHa8;^6IeBEO?EVH1
+R8
+32
+R18
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14

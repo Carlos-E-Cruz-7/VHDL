@@ -1,0 +1,21 @@
+C:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter_1
+-- Compiling architecture behv of counter_1
+
+} {} {}} C:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_TB_1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/carl_/Documents/Vivado/Projects/Udemy/Counters/counter_TB_1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter_TB_1
+-- Compiling architecture TB of counter_TB_1
+
+} {} {}}
